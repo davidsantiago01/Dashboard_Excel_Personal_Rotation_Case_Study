@@ -35,7 +35,7 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
 - Contratacion_Almacenes_Mex.xlsx
 - Escenario y Documentos.pdf
 
-## Data Cleaning
+## Data Cleaning / Preparation
 - Gather three dirty tables into one normalized tables
 - Fix wrong data dates like typo date errors. Remove possible duplications through a quick dynamic table validation.
   
