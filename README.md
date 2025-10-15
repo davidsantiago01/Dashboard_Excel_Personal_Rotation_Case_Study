@@ -6,8 +6,8 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning / Preparation](#data-cleaning--preparation)
-- [Data Analysis](#data-analysis)
-- [Dashboard] (#dashboard)
+- [initial Analysis](#initial-analysis)
+- [Dashboard](#dashboard)
 - [Results/Findings](results-findings)
 
 ## Project Overview 
@@ -39,11 +39,12 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
 - Gather three dirty tables into one normalized tables
 - Fix wrong data dates like typo date errors. Remove possible duplications through a quick dynamic table validation.
 
-## Data Analysis
+## Initial Analysis
 - For the four points requested (hired staff, located staff, released staff and turnover) we worked with dynamic tables to get the sum of these employees within each category.
 - Then, proceeded to obtain the percentage of each of these staff indicators.
 
   <img width="550" height="548" alt="image" src="https://github.com/user-attachments/assets/8f7543e8-24b6-43da-aae4-33640426b726" />
 
 ## Dashboard  
+
 
