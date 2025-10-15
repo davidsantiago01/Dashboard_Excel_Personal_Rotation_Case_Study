@@ -7,7 +7,7 @@
 - [Tools](#tools)
 - [Data Cleaning / Preparation](#data-cleaning--preparation)
 - [Data Analysis](#data-analysis)
-- 
+- [Dashboard] (#dashboard)
 - [Results/Findings](results-findings)
 
 ## Project Overview 
@@ -45,5 +45,5 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
 
   <img width="550" height="548" alt="image" src="https://github.com/user-attachments/assets/8f7543e8-24b6-43da-aae4-33640426b726" />
 
-
+## Dashboard  
 
