@@ -6,8 +6,8 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning / Preparation](#data-cleaning--preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis](data-analysis)
+- [Data Analysis](#data-analysis)
+- 
 - [Results/Findings](results-findings)
 
 ## Project Overview 
@@ -22,10 +22,10 @@ To create an interactive dashboard-style report that shows the most important in
 
 
 At a minimum, the dashboard must show: At a minimum, the dashboard should include:
-- Amount of revenue
-- Number of locations/performance as a percentage of revenue
-- Number of releases/performance as a percentage of revenue
-- Staff turnover rate (defined as departures over revenue)
+- Amount of hired staff
+- Number of located staff/performance as a percentage of hired staff
+- Number of released staff/performance as a percentage of hired staff
+- Staff turnover rate (defined as departures over hired staff)
 - 2 graphs
 - 2 segmenters
 - 1 table
@@ -38,6 +38,12 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
 ## Data Cleaning / Preparation
 - Gather three dirty tables into one normalized tables
 - Fix wrong data dates like typo date errors. Remove possible duplications through a quick dynamic table validation.
-  
+
+## Data Analysis
+- For the four points requested (hired staff, located staff, released staff and turnover) we worked with dynamic tables to get the sum of these employees within each category.
+- Then, proceeded to obtain the percentage of each of these staff indicators.
+
+  <img width="550" height="548" alt="image" src="https://github.com/user-attachments/assets/8f7543e8-24b6-43da-aae4-33640426b726" />
+
 
 
