@@ -45,6 +45,13 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
 
   <img width="550" height="548" alt="image" src="https://github.com/user-attachments/assets/8f7543e8-24b6-43da-aae4-33640426b726" />
 
-## Dashboard  
+## Dashboard (Initial Steps) 
+- New worksheet named Dashboard. Here we will work with the Dashboard to show the report requested
+- Insert Forms and textboxes.
+- Inserting the four indicator names, referencing the numbers and percentages from the Analysis worksheet.
+- Modifying color, outline and shadows at will
+  
+<img width="1044" height="540" alt="image" src="https://github.com/user-attachments/assets/1458351a-6a31-49dc-bdda-e749fff0274e" />
 
+## Slices
 
