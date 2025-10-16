@@ -7,7 +7,7 @@
 - [Tools](#tools)
 - [Data Cleaning / Preparation](#data-cleaning--preparation)
 - [Initial Analysis](#initial-analysis)
-- [Dashboard](#dashboard--(Initial Steps))
+- [Dashboard](#dashboard--initial-steps)
 - [Results/Findings](results-findings)
 
 ## Project Overview 
