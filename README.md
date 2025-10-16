@@ -9,6 +9,7 @@
 - [Initial Analysis](#initial-analysis)
 - [Dashboard – Initial Steps](#dashboard--initial-steps)
 - [Slices](#Slices)
+- [Document Analysis](#document-analysis)
 - [Results/Findings](#results-findings)
 
 ## Project Overview 
@@ -65,6 +66,6 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
 - Cut and copy the tables to our Dashboard
   <img width="1678" height="485" alt="image" src="https://github.com/user-attachments/assets/56dac79e-ee5d-430f-8cd3-4cdc7ba3f102" />
 
-
+## Document Analysis
 
 
