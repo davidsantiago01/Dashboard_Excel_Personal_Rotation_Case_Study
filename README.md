@@ -7,7 +7,7 @@
 - [Tools](#tools)
 - [Data Cleaning / Preparation](#data-cleaning--preparation)
 - [Initial Analysis](#initial-analysis)
-- [Dashboard - Initial Steps](#dashboard--initial-steps)
+- [Dashboard – Initial Steps](#dashboard--initial-steps)
 - [Slices](#Slices)
 - [Results/Findings](#results-findings)
 
@@ -46,7 +46,7 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
 
   <img width="550" height="548" alt="image" src="https://github.com/user-attachments/assets/8f7543e8-24b6-43da-aae4-33640426b726" />
 
-## Dashboard - Initial Steps
+## Dashboard – Initial Steps
 - New worksheet named Dashboard. Here we will work with the Dashboard to show the report requested
 - Insert Forms and textboxes.
 - Inserting the four indicator names, referencing the numbers and percentages from the Analysis worksheet.
