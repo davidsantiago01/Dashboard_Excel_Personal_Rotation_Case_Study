@@ -6,8 +6,8 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning / Preparation](#data-cleaning--preparation)
-- [initial Analysis](#initial-analysis)
-- [Dashboard](#dashboard)
+- [Initial Analysis](#initial-analysis)
+- [Dashboard](#dashboard--(Initial Steps))
 - [Results/Findings](results-findings)
 
 ## Project Overview 
