@@ -55,4 +55,15 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
 <img width="1044" height="540" alt="image" src="https://github.com/user-attachments/assets/1458351a-6a31-49dc-bdda-e749fff0274e" />
 
 ## Slices
+- Create two slicers taking reference the Analysis worksheet data; one slicer for Area, and one for Almacén "Warehouse".
+- Change color, column quantity, and other specs at will
+- Mark "Remove blank data" box, from "Slice Data Configuration" at Slicer ribbon
+  <img width="573" height="433" alt="image" src="https://github.com/user-attachments/assets/e9cc0adf-939c-421a-9226-79541483c839" />
+- Reference our tables to the slices marking the tables checkboxes on "Report Connections" at Slicer ribbon
+<img width="352" height="270" alt="image" src="https://github.com/user-attachments/assets/698b8dc2-b730-45e3-b2ed-6d4a61521c31" />
+- Cut and copy the tables to our Dashboard
+<img width="1678" height="485" alt="image" src="https://github.com/user-attachments/assets/56dac79e-ee5d-430f-8cd3-4cdc7ba3f102" />
+
+
+
 
