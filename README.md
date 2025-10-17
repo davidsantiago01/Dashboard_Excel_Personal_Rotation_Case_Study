@@ -67,15 +67,22 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
   <img width="1678" height="485" alt="image" src="https://github.com/user-attachments/assets/56dac79e-ee5d-430f-8cd3-4cdc7ba3f102" />
 
 ## Further Document Analysis
-- Analysis of "Escenario y Documentos" file where we gathered the following key points for further ideas:
-    - National Staff Average Turnover: where we are given this data and compare with ours using a graphic, slicer or table chart.
+Exploring the documents, there are two important sections where we are provided extra information to help generate ideas and include if a data is valuable to present. We have found the following: 
+
+  - National Staff Average Turnover. This data is presented as a news arcticle, redacting the increase in criminality inside the country, specially during the night time, where people are afraid to commute during those hours, where the valuable data to extract is the mentioned day and night average turnover reported by a national organism, implying this is the national average staff turnover.
       
   | Shift | Percentage |
   |:-------|-----------:|
   | Night  | 68% |
   | Day  | 23% |
       
-    - Hiring Number of Staff from our competition "Manchester Stores". Company goal is to mantain higher number above our competition. Their numbers are:
+  - Hiring Number of Staff from our competition "Manchester Stores". Present as an email coming from a superior providing important insights about the hiring staff that our competition has hired during the first semester of 2017. The messager closes with the importance as our company goal to mantaina  higher number above our competition. Their staff hiring personal is the following:
 
-
-
+  | City | Staff Hired |
+  |:-------|-----------:|
+  | CDMX  | 200 |
+  | Ecatepec  | 50 |
+  | Guadalajara  | 100 |
+  | Zapopan  | 50 |
+  | Monterrey  | 200 |
+  | Puebla  | 40 |
