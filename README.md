@@ -67,16 +67,16 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
   <img width="1678" height="485" alt="image" src="https://github.com/user-attachments/assets/56dac79e-ee5d-430f-8cd3-4cdc7ba3f102" />
 
 ## Further Document Analysis
-Exploring the documents, there are two important sections where we are provided extra information to help generate ideas and include if a data is valuable to present. We have found the following: 
+Reading the document "Escenario y Documentos.pdf", there are two key sections from which we receive additional information intended to support idea generation and the inclusion of valuable insights. We have found the following: 
 
-  - National Staff Average Turnover. This data is presented as a news arcticle, redacting the increase in criminality inside the country, specially during the night time, where people are afraid to commute during those hours, where the valuable data to extract is the mentioned day and night average turnover reported by a national organism, implying this is the national average staff turnover.
+  - National Staff Average Turnover. This data is presented as a news arcticle, redacting the increase in criminality inside the country, emphasizing during the night time, in which people are afraid to commute during night hours; the valuable data to extract is the mentioned day and night average turnover reported by Logistics National Chamber, thus implying this is the National Average Staff Turnover.
       
   | Shift | Percentage |
   |:-------|-----------:|
   | Night  | 68% |
   | Day  | 23% |
       
-  - Hiring Number of Staff from our competition "Manchester Stores". Present as an email coming from a superior providing important insights about the hiring staff that our competition has hired during the first semester of 2017. The messager closes with the importance as our company goal to mantaina  higher number above our competition. Their staff hiring personal is the following:
+  - Hiring Number of Staff from our competition "Manchester Stores".This section presents information as if it were an email from a superior providing important insights about the staff hired by our competitor during the first semester of 2017. The message concludes by emphasizing the importance of maintaining a higher number of hires than our competition. Their staff hiring data is at follows:
 
   | City | Staff Hired |
   |:-------|-----------:|
