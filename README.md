@@ -70,9 +70,8 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
 - Analysis of "Escenario y Documentos" file where we gathered the following key points for further ideas:
     - National Staff Average Turnover: where we are given this data and compare with ours using a graphic, slicer or table chart.
       
-            |-----------   |   ---------- |
-            | Night Shift  | 60% |
-            | Day Shift    | 23% |
+            | Night Shift | 60% |
+            | Day Shift   | 23% |
       
     - Hiring Number of Staff from our competition "Manchester Stores". Company goal is to mantain higher number above our competition. Their numbers are:
 
