@@ -72,8 +72,8 @@ At a minimum, the dashboard must show: At a minimum, the dashboard should includ
       
   | Shift | Percentage |
   |:-------|-----------:|
-  | Night Shift | 68% |
-  | Day Shift | 23% |
+  | Night  | 68% |
+  | Day  | 23% |
       
     - Hiring Number of Staff from our competition "Manchester Stores". Company goal is to mantain higher number above our competition. Their numbers are:
 
