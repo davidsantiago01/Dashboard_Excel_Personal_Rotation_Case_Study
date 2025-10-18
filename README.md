@@ -11,7 +11,7 @@
 - [Slices](#Slices)
 - [Further Document Analysis](#further-document-analysis)
 - [Final Dashboard](#final-dashboard)
-- [Results/Findings](#results-findings)
+- [Final Results](#final-reuslts)
 
 ## Project Overview 
 
@@ -122,7 +122,12 @@ We got requested to include a two graphs and a table. We decided to use informat
     <img width="411" height="113" alt="image" src="https://github.com/user-attachments/assets/48b2312d-d52e-490a-91ee-ffb7adb93cbe" />
 
 
-## Results/Findings
+## Final Results
+
+This project successfully met all business objectives by creating an interactive Excel dashboard that tracks hired, located, and released staff, along with performance percentages and turnover rate. The dashboard includes two charts, two segmenters, and one data table for clear visualization and analysis.
+
+<img width="1233" height="636" alt="image" src="https://github.com/user-attachments/assets/b5d8109b-00bc-42b7-9087-4a9cc8d0fa8a" />
+
 
 
 
