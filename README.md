@@ -10,6 +10,7 @@
 - [Dashboard – Initial Steps](#dashboard--initial-steps)
 - [Slices](#Slices)
 - [Further Document Analysis](#further-document-analysis)
+- [Final Dashboard](#final-dashboard)
 - [Results/Findings](#results-findings)
 
 ## Project Overview 
@@ -90,8 +91,9 @@ Reading the document "Escenario y Documentos.pdf", there are two key sections fr
 ## Final Dashboard
 We got requested to include a two graphs and a table. We decided to use information we have not touched yet. We have choose the following:
 
-- Performance Table versus Manchester Warehouses. We inserted a Pivot of Warehouse Staff Hiring directly into the Dashboard sheet, ciltering by the six cities we have Data from our competition and compare.
+- Performance Table versus Manchester Warehouses. We inserted a Pivot of Warehouse Staff Hiring directly into the Dashboard sheet, ciltering by the six cities we have Data from our competition and compare. Adding a Conditional Formatting in Green color if we have above their number, and in Red Color if we were subpar.
+  
   <img width="435" height="176" alt="image" src="https://github.com/user-attachments/assets/cb8d4cc5-1228-4376-ab5a-eff3807acd95" />
   <img width="162" height="182" alt="image" src="https://github.com/user-attachments/assets/4fa6228c-a0e6-4624-8344-19ccf238d823" />
 
-   
+-   
