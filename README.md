@@ -15,6 +15,8 @@
 
 ## Project Overview 
 
+- The aim of this practice is to refine key concepts of data analysis such as: Analysing Business Requests, Transforming Data, Cleaning Data, Using Business Logic to bring Value, Storytelling, Dashboard Design, among others.
+
 ### Case Study
 You are a newly hired analyst for the human resources department at SelvaCongo.com, a company that sells everything online. They currently have a problem with how information about the hiring and firing of their warehouse staff across the country is displayed. The previous analyst had to prepare PowerPoint reports for more than 100 different managers and department heads, which
 took up more than half of their time each month. SelvaCongo.com is also concerned about its staff turnover rates and wants managers to have this information at their fingertips so they can reduce them below the industry average.
@@ -91,9 +93,29 @@ Reading the document "Escenario y Documentos.pdf", there are two key sections fr
 ## Final Dashboard
 We got requested to include a two graphs and a table. We decided to use information we have not touched yet. We have choose the following:
 
-- Performance Table versus Manchester Warehouses. We inserted a Pivot of Warehouse Staff Hiring directly into the Dashboard sheet, ciltering by the six cities we have Data from our competition and compare. Adding a Conditional Formatting in Green color if we have above their number, and in Red Color if we were subpar.
+- Performance Table versus Manchester Warehouses. We inserted a Pivot of Warehouse Staff Hiring directly into the Dashboard sheet, filtering by the six cities we have Data from our competition and compare with. Adding a Conditional Formatting in Green color if we have above their number, and in Red Color if we were subpar were the final steps.
   
-  <img width="435" height="176" alt="image" src="https://github.com/user-attachments/assets/cb8d4cc5-1228-4376-ab5a-eff3807acd95" />
-  <img width="162" height="182" alt="image" src="https://github.com/user-attachments/assets/4fa6228c-a0e6-4624-8344-19ccf238d823" />
+    <img width="435" height="176" alt="image" src="https://github.com/user-attachments/assets/cb8d4cc5-1228-4376-ab5a-eff3807acd95" />
+    <img width="162" height="182" alt="image" src="https://github.com/user-attachments/assets/4fa6228c-a0e6-4624-8344-19ccf238d823" />
 
--   
+
+- Staff Hiring by Position Graph. Before the Graph, a pivot was made in Analysis Sheet; showing the count of people hired by position. Then formatting to match Dashboard colors. We connected this table to the main Slicers at "Filerting Connections".
+  
+    <img width="277" height="199" alt="image" src="https://github.com/user-attachments/assets/2fa75e50-2681-449b-bea3-ea864c17a693" />
+    <img width="508" height="328" alt="image" src="https://github.com/user-attachments/assets/54fb8b62-39f5-4eed-a102-e5e8961003df" />
+    
+
+- Staff Hiring Timeline Graph. Similar with previous, we did also inserted a new pivot in Analysis Sheet; this time showing the number of hiring staff during the period of months we have. We connected this table to the main Slicers at "Filerting Connections".
+  
+    <img width="264" height="185" alt="image" src="https://github.com/user-attachments/assets/235cfc68-4602-4c09-b2e4-c4a30fededad" />
+    <img width="463" height="329" alt="image" src="https://github.com/user-attachments/assets/b0762e64-e6af-4239-b734-3b335197ebc2" />
+    
+
+- Day & Night Turnover versus the National Average. Since we were given the National Average Turnover, we decided to include this data and compare versus ours. We created two pivots; once for Day Shift and one for Night Shift.We then simply add the numbers directly to the Dashboard, referencing the our Turnover number cells, versus the National Average. We connected this table to the main Slicers at "Filerting Connections".
+  
+    <img width="378" height="209" alt="image" src="https://github.com/user-attachments/assets/4c0d7fed-2a83-4f6c-af7e-9d4901856498" />
+    <img width="271" height="70" alt="image" src="https://github.com/user-attachments/assets/dc39477e-3e5a-48a9-b309-b4d3de87529c" />
+
+      
+
+
