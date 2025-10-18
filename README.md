@@ -74,21 +74,21 @@ Reading the document "Escenario y Documentos.pdf", there are two key sections fr
 
   - National Staff Average Turnover. This data is presented as a news arcticle, redacting the increase in criminality inside the country, emphasizing during the night time, in which people are afraid to commute during night hours; the valuable data to extract is the mentioned day and night average turnover reported by Logistics National Chamber, thus implying this is the National Average Staff Turnover.
       
-  | Shift | Percentage |
-  |:-------|-----------:|
-  | Night  | 68% |
-  | Day  | 23% |
+      | Shift | Percentage |
+      |:-------|-----------:|
+      | Night  | 68% |
+      | Day  | 23% |
       
   - Hiring Number of Staff from our competition "Manchester Stores".This section presents information as if it were an email from a superior providing important insights about the staff hired by our competitor during the first semester of 2017. The message concludes by emphasizing the importance of maintaining a higher number of hires than our competition. Their staff hiring data is at follows:
 
-  | City | Staff Hired |
-  |:-------|-----------:|
-  | CDMX  | 200 |
-  | Ecatepec  | 50 |
-  | Guadalajara  | 100 |
-  | Zapopan  | 50 |
-  | Monterrey  | 200 |
-  | Puebla  | 40 |
+      | City | Staff Hired |
+      |:-------|-----------:|
+      | CDMX  | 200 |
+      | Ecatepec  | 50 |
+      | Guadalajara  | 100 |
+      | Zapopan  | 50 |
+      | Monterrey  | 200 |
+      | Puebla  | 40 |
 
 ## Final Dashboard
 We got requested to include a two graphs and a table. We decided to use information we have not touched yet. We have choose the following:
